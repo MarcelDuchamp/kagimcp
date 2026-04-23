@@ -4,6 +4,14 @@
   <img width="380" height="200" src="https://glama.ai/mcp/servers/xabrrs4bka/badge" alt="Kagi Server MCP server" />
 </a>
 
+## Tools
+
+- `kagi_search_fetch` — Kagi Search API (closed beta, email support@kagi.com for access).
+- `kagi_summarizer` — Kagi Universal Summarizer; summarizes any URL (text, video, audio).
+- `kagi_fastgpt` — Kagi FastGPT; returns a concise, cited answer to a natural-language question using live web search.
+
+`kagi_summarizer` and `kagi_fastgpt` work with any standard Kagi API key. `kagi_search_fetch` additionally requires Search API beta access.
+
 ## Setup Intructions
 > Before anything, unless you are just using non-search tools, ensure you have access to the search API. It is currently in closed beta and available upon request. Please reach out to support@kagi.com for an invite.
 
